@@ -2,13 +2,6 @@
 {
   "name": "service",
   "description": "service msg del bot!",
-  "keywords": [
-    "telegram",
-    "best",
-    "group",
-    "manager",
-    "3"
-  ],
   "stack": "heroku-18",
   "repository": "https://github.com/anandus0070/antiservice-message",
   "env": {
