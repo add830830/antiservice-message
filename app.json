@@ -9,6 +9,7 @@
     "manager",
     "3"
   ],
+  "stack": "heroku-18"
   "repository": "https://github.com/anandus0070/antiservice-message",
   "env": {
     "ENV": {
@@ -31,7 +32,4 @@
   "buildpacks": [{
     "url": "heroku/python"
   }]
-}
-{
-  "stack": "heroku-18"
 }
